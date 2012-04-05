@@ -1,0 +1,10 @@
+{
+  "name" : "project",
+  "description" : "TODO: Enter the description of your project here",
+  "author" : "TODO: Enter your name here",
+  "version" : "0.0.1",
+  "devDependencies" : {
+    "mocha" : "latest",
+    "should" : "latest"
+  }
+}

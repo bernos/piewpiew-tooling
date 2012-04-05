@@ -1,0 +1,8 @@
+{
+  "name": "piewpiew-tooling",
+  "description": "cli tooling for piewpiew-js based projects",
+  "version": "0.0.1",
+  "dependencies": {
+    "wrench": "latest"
+  }
+}
